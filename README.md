@@ -41,5 +41,5 @@ python3 main.py -i ./vectors -o dataset.vw
 ```
 
 Program arguments:
-* **-i**, **--input**: input folder with vectors (in JSON format);
-* **-o**, **--output**: output file with dataset in Vawpal Wabbit format.
+* **-i**, **--input_folder**: input folder with vectors (in JSON format);
+* **-o**, **--output_file**: output file with dataset in Vawpal Wabbit format.
