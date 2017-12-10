@@ -1,6 +1,6 @@
 # vectors2vw
 
-Program for converting vector set to dataset in Vawpal Wabbit format.
+Program for vector set converting to dataset in Vawpal Wabbit format.
 
 ## Input
 Program input is path to folder which contains files with vectors in JSON format (JSON array).
